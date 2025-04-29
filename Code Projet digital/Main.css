@@ -1,0 +1,34 @@
+/* style.css */
+body{
+  background: rgb(0,0,0);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: fantasy;
+  color: blanchedalmond;
+  font-weight: lighter;
+  font-size: 70px;
+}
+h2 {
+  font-family: cursive;
+  color: blanchedalmond;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+p {
+  font-family: cursive;
+  color: white;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
