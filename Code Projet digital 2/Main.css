@@ -1,0 +1,49 @@
+/* style.css */
+body{
+  background: rgb(0,0,0);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: ubuntu;
+  color: blanchedalmond;
+  font-weight: normal;
+  font-size: 70px;
+}
+h2 {
+  font-family: ubuntu;
+  color: blanchedalmond;
+  font-weight: normal;
+  font-size: 25px;
+}
+
+.Marseille {
+  width: 1000px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-family: cursive;
+  color: white;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+img, .tenor-gif-embed {
+  width: 500px;
+  height: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
